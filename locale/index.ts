@@ -20,6 +20,7 @@ const locale: Locale = {
     language: "language",
     languages: {
       "en-us": "english",
+      "nl-nl": "dutch",
       "it-it": "italian",
       "fr-fr": "french"
     },
@@ -50,6 +51,52 @@ const locale: Locale = {
     shipping: "Shipping",
     algoliaCategory: "Algolia category"
   },
+  "nl-nl": {
+    welcomeTo: "Welkom bij de",
+    addToCart: "Toevoegen",
+    available: "beshcikbaar",
+    notAvailable: "niet beschikbaar",
+    categories: "categorieën",
+    startShopping: "Winkelen",
+    learnMore: "Meer informatie",
+    continueShopping: "Doorgaan met winkelen",
+    shoppingBag: "Winkelmand",
+    days: "dagen",
+    freeOver: "gratis vanaf",
+    language: "taal",
+    languages: {
+      "en-us": "inglese",
+      "nl-nl": "nederlands",
+      "it-it": "italiano",
+      "fr-fr": "francese"
+    },
+    method: "methode",
+    outOfStock: "Uitverkocht",
+    price: "prijs",
+    proceedToCheckout: "Afrekenen",
+    selectSize: "MAat selecteren",
+    shippingTo: "Verzenden naar",
+    yourShoppingCart: "Uw winkelmand bevat",
+    searchTitle: "Find a product",
+    sortBy: "Sorteren op",
+    featured: "Aanbevolen",
+    highestPrice: "Hoogste prijs",
+    lowestPrice: "Laagste prijs",
+    searchPlaceholder: "Zoeken...",
+    backToAllProducts: "Productoverzicht",
+    reviews: "Reviews",
+    total: "Totaal",
+    subTotal: "Subtotaal",
+    discount: "Korting",
+    taxes: "BTW",
+    giftCard: "Koringscode",
+    items: "Artikelen",
+    viewMore: "Toon meer",
+    shipping: "Verzendmethode",
+    emptyProducts: "Geen producten",
+    emptyFilters: "Geen resultaten gevonden",
+    algoliaCategory: "Algolia categorie"
+  },
   "it-it": {
     welcomeTo: "Benvenuto a",
     addToCart: "Aggiungi al carrello",
@@ -65,6 +112,7 @@ const locale: Locale = {
     language: "lingua",
     languages: {
       "en-us": "inglese",
+      "nl-nl": "olandese",
       "it-it": "italiano",
       "fr-fr": "francese"
     },
@@ -110,6 +158,7 @@ const locale: Locale = {
     language: "langue",
     languages: {
       "en-us": "anglais",
+      "nl-nl": "néerlandais",
       "it-it": "italian",
       "fr-fr": "français"
     },
