@@ -49,10 +49,10 @@ const Layout: React.FunctionComponent<Props> = ({
               <div className="flex items-center flex-1 md:absolute md:inset-y-0 md:left-0">
                 <div className="flex items-center justify-between w-full md:w-auto">
                   <Link href="/" passHref>
-                    <span className="sr-only">Commerce Layer</span>
+                    <span className="sr-only">Goedkope Bamboe</span>
                     <Image
                       className="h-8 w-auto"
-                      src="//data.commercelayer.app/assets/logos/full-logo/black/commercelayer_full_logo_black.svg"
+                      src="https://github.com/websseo/goedkopebamboe.nl/blob/02be65505af09f871c5325bb0a4b22ca175b4791/goedkope-bamboe-logo.png"
                       alt="Commerce Layer Logo"
                       loading="eager"
                       width={200}
