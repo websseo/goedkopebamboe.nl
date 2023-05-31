@@ -6,6 +6,7 @@ const nextConfig = {
       { hostname: "cdn.sanity.io" },
       { hostname: "images.unsplash.com" },
       { hostname: "github.com" },
+      { hostname: "goedkopebamboe.nl" },
       { hostname: "data.commercelayer.app" }
     ]
   },
