@@ -51,7 +51,7 @@ const Layout: React.FunctionComponent<Props> = ({
                   <Link href="/" passHref>
                     <span className="sr-only">Goedkope Bamboe</span>
                     <Image
-                      className="h-8 w-auto"
+                      className="max-w-full"
                       src="https://cdn.sanity.io/images/942dpngz/goedkopebamboe/7a495f0f0e43570fd623064d0d93de19e13e9773-900x250.png"
                       alt="Goedkope Bamboe Logo"
                       loading="eager"
