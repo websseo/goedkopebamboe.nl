@@ -52,11 +52,11 @@ const Layout: React.FunctionComponent<Props> = ({
                     <span className="sr-only">Goedkope Bamboe</span>
                     <Image
                       className="h-8 w-auto"
-                      src="//goedkope-bamboe-logo.png"
-                      alt="Commerce Layer Logo"
+                      src="https://github.com/websseo/goedkopebamboe.nl/blob/02be65505af09f871c5325bb0a4b22ca175b4791/goedkope-bamboe-logo.png"
+                      alt="Goedkope Bamboe Logo"
                       loading="eager"
-                      width={200}
-                      height={50}
+                      width={234}
+                      height={65}
                     />
                   </Link>
                   {showMenu && (
